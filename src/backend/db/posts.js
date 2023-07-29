@@ -10,11 +10,11 @@ export const posts = [
   {
     _id: uuid(),
     content:
-      "As you get older, three things happen. The first is your memory goes, and I can’t remember the other two.",
+      "ReactJS is an open-source JavaScript library maintained by Facebook and the community. It is primarily used for building user interfaces, especially for single-page applications.",
     img: null,
     imgAlt: "",
     likes: {
-      likeCount: 2,
+      likeCount: 4,
       likedBy: [
         {
           _id: uuid(),
@@ -97,7 +97,7 @@ export const posts = [
       ],
       dislikedBy: [],
     },
-    username: "nick_deshwani",
+    username: "test_test",
     comments: [
       {
         _id: uuid(),
@@ -130,7 +130,7 @@ export const posts = [
   },
   {
     _id: uuid(),
-    content: "Yeah, well. I don’t try to be awesome. It just comes natural.",
+    content: "React uses a virtual DOM (Document Object Model) to efficiently manage and update the actual DOM. This allows React to update only the necessary parts of the UI, improving performance and rendering speed.",
     img: null,
     imgAlt: "",
     likes: {
@@ -161,7 +161,7 @@ export const posts = [
       ],
       dislikedBy: [],
     },
-    username: "phobe_buffay",
+    username: "test_test",
     comments: [
       {
         _id: uuid(),
@@ -193,8 +193,8 @@ export const posts = [
   },
   {
     _id: uuid(),
-    content: "I love the rain. It's my favorite weather.",
-    img: "https://res.cloudinary.com/dkwrbu6qr/image/upload/v1656232135/rain_w1hx32.jpg",
+    content: "ReactJS follows a component-based architecture, where the UI is broken down into reusable and self-contained components. Each component represents a specific part of the user interface.",
+    img: "https://res.cloudinary.com/dkwrbu6qr/image/upload/v165623/135/rain_w1hx32.jpg",
     imgAlt: "rain",
     likes: {
       likeCount: 3,
