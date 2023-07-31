@@ -1,5 +1,5 @@
-# Learnly...
-### It is Like a social media platfoem where users can share there post 
+# Learnly
+### It is a social media platfoem where users can share there post 
 #### Learnly... is an innovative and user-friendly web application that fosters a vibrant community of learners, encouraging knowledge sharing and collaboration. Developed using modern technologies like ReactJS, Tailwind CSS, and Redux Toolkit, Learnly... offers a seamless experience for users to connect, learn, and grow together.
 
 
@@ -32,8 +32,3 @@
 #### <img width="853" alt="image" src="https://github.com/AshutoshRajGupta/Learnly/assets/89141709/78645e7c-ae54-4276-a219-9bfd9c3df439">
 #### <img width="890" alt="image" src="https://github.com/AshutoshRajGupta/Learnly/assets/89141709/5ccecbf2-65f1-4b24-abdc-ff7f250704e5">
 #### <img width="849" alt="image" src="https://github.com/AshutoshRajGupta/Learnly/assets/89141709/d70fb1b0-8d45-4cf8-a457-81d62e2a369c">
-
-
-
-
-
