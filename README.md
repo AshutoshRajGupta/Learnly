@@ -4,7 +4,7 @@
 
 
 # Features
-#### Create, edit and delete posts
+#### Create, edit and delete posts.
 #### Create, edit and delete comments on posts
 #### Like/dislike post
 #### Add/remove post to/from bookmark
