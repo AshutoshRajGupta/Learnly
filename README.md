@@ -45,17 +45,7 @@
 
 # Screenshots
 
-#### `<img width="933" alt="image" src="https://github.com/AshutoshRajGupta/Learnly/assets/89141709/827e6f58-bf64-473e-aafd-932d5b54d561">`
 
-#### `<img width="925" alt="image" src="https://github.com/AshutoshRajGupta/Learnly/assets/89141709/83ffedad-6f13-4826-9769-e5d5a457e669">`
-
-#### `<img width="911" alt="image" src="https://github.com/AshutoshRajGupta/Learnly/assets/89141709/ed8090f0-5aa6-44cf-bf0c-662cf064a644">`
-
-#### `<img width="853" alt="image" src="https://github.com/AshutoshRajGupta/Learnly/assets/89141709/78645e7c-ae54-4276-a219-9bfd9c3df439">`
-
-#### `<img width="890" alt="image" src="https://github.com/AshutoshRajGupta/Learnly/assets/89141709/5ccecbf2-65f1-4b24-abdc-ff7f250704e5">`
-
-#### `<img width="849" alt="image" src="https://github.com/AshutoshRajGupta/Learnly/assets/89141709/d70fb1b0-8d45-4cf8-a457-81d62e2a369c">`
 #### <img width="933" alt="image" src="https://github.com/AshutoshRajGupta/Learnly/assets/89141709/827e6f58-bf64-473e-aafd-932d5b54d561">
 #### <img width="925" alt="image" src="https://github.com/AshutoshRajGupta/Learnly/assets/89141709/83ffedad-6f13-4826-9769-e5d5a457e669">
 #### <img width="911" alt="image" src="https://github.com/AshutoshRajGupta/Learnly/assets/89141709/ed8090f0-5aa6-44cf-bf0c-662cf064a644">
